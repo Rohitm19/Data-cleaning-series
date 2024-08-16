@@ -1,0 +1,11 @@
+Product ID,Product Name,Price,Category,Stock,Description
+1,Widget A,19.99,Electronics,100,A high-quality widget
+2,Widget B,29.99,Electronics,,
+3,,15,Home Goods,50,Durable and stylish
+4,Widget D,,Home Goods,200,A versatile widget
+5,Widget E,9.99,,10,Compact and efficient
+6,Widget F,25,Electronics,0,Latest technology widget
+7,Widget G,,Kitchen,150,Multi-purpose widget
+8,Widget H,39.99,Kitchen,75,Premium quality
+9,Widget I,,Electronics,,Advanced features
+10,Widget J,49.99,Electronics,60,Best in class

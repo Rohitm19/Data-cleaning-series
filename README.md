@@ -82,7 +82,7 @@ pip install pandas numpy fuzzywuzzy python-Levenshtein
 ### **Running the Notebooks**
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/YourGitHubUsername/Data-Cleaning-Series.git
+git clone https://github.com/Rohitm19/Data-cleaning-series.git
 cd Data-Cleaning-Series
 ```
 
@@ -109,8 +109,8 @@ If you'd like to contribute to this project, feel free to submit a pull request 
 
 ## 📧 **Contact**
 For any questions or feedback, you can reach me at:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/YourLinkedInProfile)
-- GitHub: [Your GitHub Profile](https://github.com/YourGitHubUsername)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rohit-mudaliar-201111156/)
+- GitHub: [Your GitHub Profile](https://github.com/Rohitm19)
 
 ---
 
